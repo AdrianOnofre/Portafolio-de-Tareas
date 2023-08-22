@@ -17,44 +17,44 @@ Software: Es la parte intangible de una computadora, la cual permite el funciona
 
 Esta compuesta por:
 
-*Pantalla
-*Teclado
-*Bocinas
-*Procesador
-*Mouse
-*Memoria RAM
-*NIC
-*Tarjeta Audio
-*VMR
-*Pad Termico
-*Webcam
-*Adaptador USB/Ethernet Wifi
-*Gabinete
-*Tarjeta Grafica
-*Motherboard
-*Fuente de Poder
-*Ventilador
-*Disipador
-*MDD
-*SSD
-*Cables
-*Refrigeracion Aire/Liquida
-*Microfono
-*Touchboard
+* Pantalla
+* Teclado
+* Bocinas
+* Procesador
+* Mouse
+* Memoria RAM
+* NIC
+* Tarjeta Audio
+* VMR
+* Pad Termico
+* Webcam
+* Adaptador USB/Ethernet Wifi
+* Gabinete
+* Tarjeta Grafica
+* Motherboard
+* Fuente de Poder
+* Ventilador
+* Disipador
+* MDD
+* SSD
+* Cables
+* Refrigeracion Aire/Liquida
+* Microfono
+* Touchboard
 
--Concepto de Workstation.
+- Concepto de Workstation.
 
 Workstation: La estacion de trabajo (o workstation en ingles) es una computadora con excelentes componentes, la cual es utilizada
 para trabajos como de diseño grafico o diseño 3D, que requieren programas con exigencia de mucha CPU y RAM.
 
--Concepto de servidor.
+- Concepto de servidor.
 
 Servidor: Un servidor es un sistema que proporciona recursos, datos, servicios o programas a otros ordenadores,
 a traves de una red.
 
--Muestra de la Raspberry Pi, Sniffercat, Huntercat y Electronic Cats.
+- Muestra de la Raspberry Pi, Sniffercat, Huntercat y Electronic Cats.
 
--Definicion de lo que es una computadora.
+- Definicion de lo que es una computadora.
 
 Computadora: Una computadora es un dispositivo electronico, el cual integra varios componentes que en conjunto permiten introducir,
 procesar y dar salida a los datos que el usuario ingrese. De igual manera tiene la capacidad de ejecutar programas y tareas especificas
@@ -118,17 +118,17 @@ Leyendo los residuos de abajo hacia arriba da: 11001
 
 Por lo cual, 25 en decimal es igual a 11001 en binario.
 
--¿Que es una palabra para un computadora?
+- ¿Que es una palabra para un computadora?
 
   En el contexto de la informatica, una palabra es una cadena finita de bits que son manejados como un conjunto por la maquina.
   El tamaño o longitud de una palabra hace referencia al numero de bits contenidos en ella, y es un aspecto muy importante al momento
   de diseñar una arquitectura de ordenadores.
   
--¿Que es Forkbomb?
+- ¿Que es Forkbomb?
 
 Una bomba fork es una forma de ataque del tipo denegacion de servicio sobre un computador implementando una operacion fork o alguna
 otra funcionalidad equivalente mediante la cual el proceso es capaz de autorreplicarse. La bomba fork es considerado un wabbit (un tipo de programa malicioso que se multiplica multitud de veces),
 ya que no se autorreplica de la misma forma que los gusanos o los virus. Su efecto se basa en la suposicion de que el numero de programas
 y procesos que se ejecutan simultaneamente en un ordenardor tiene un limite.
 
--Sesión 4 - 23 de Agosto del 2023:
+- Sesión 4 - 23 de Agosto del 2023:

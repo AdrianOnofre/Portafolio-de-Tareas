@@ -15,7 +15,7 @@ Software: Es la parte intangible de una computadora, la cual permite el funciona
 
 -Partes de una computadora.
 
-Estan compuesta por:
+Esta compuesta por:
 
 *Pantalla
 *Teclado
@@ -130,3 +130,5 @@ Una bomba fork es una forma de ataque del tipo denegacion de servicio sobre un c
 otra funcionalidad equivalente mediante la cual el proceso es capaz de autorreplicarse. La bomba fork es considerado un wabbit (un tipo de programa malicioso que se multiplica multitud de veces),
 ya que no se autorreplica de la misma forma que los gusanos o los virus. Su efecto se basa en la suposicion de que el numero de programas
 y procesos que se ejecutan simultaneamente en un ordenardor tiene un limite.
+
+-Sesión 4 - 23 de Agosto del 2023:

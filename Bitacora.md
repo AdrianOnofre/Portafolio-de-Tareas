@@ -2,18 +2,18 @@ Bitácora de Clases
 
 Sesión 1 - 14 de Agosto del 2023:
 
--Presentación de la materia
--Rubrica
--Dinámica de clase
+- Presentación de la materia
+- Rubrica
+- Dinámica de clase
 
 Sesión 2 - 16 de Agosto del 2023:
 
--Hardware y Software.
+- Hardware y Software.
 
 Hardware: Son las partes fisicas de una computadora.
 Software: Es la parte intangible de una computadora, la cual permite el funcionamiento de la computadora.
 
--Partes de una computadora.
+- Partes de una computadora.
 
 Esta compuesta por:
 

@@ -8,5 +8,3 @@ while cociente != 1:
 resultado = resultado + str(cociente)
 resultado = resultado[::-1]
 print(resultado)
-
-
